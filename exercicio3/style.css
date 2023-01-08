@@ -1,0 +1,26 @@
+body{
+    background-color: #0000f7;
+    font: normal 15pt arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+#dados{
+    
+   
+    text-align: center;
+}
+section{
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    background-color: #ffffff;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+}
