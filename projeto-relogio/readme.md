@@ -1,0 +1,1 @@
+Este projeto foi feito com base no projeto da B7Web https://alunos.b7web.com.br/curso/javascript/d7js-projeto-2-relogio

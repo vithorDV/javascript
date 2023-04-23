@@ -1,0 +1,1 @@
+Este projeto foi feito como exercício na B7Web  https://alunos.b7web.com.br/curso/javascript/d7js-projeto-4-jogo-da-velha

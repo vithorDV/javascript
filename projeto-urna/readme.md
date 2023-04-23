@@ -1,0 +1,1 @@
+Este projeto foi feito com base no exercício na B7Web https://alunos.b7web.com.br/curso/javascript/estruturando-o-slider
