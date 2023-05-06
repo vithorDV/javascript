@@ -1,1 +1,1 @@
-Este projeto foi feito como exercício no Hora De Codar https://www.youtube.com/watch?v=HSssE1PRQcA
+Este projeto foi feito como exercício para obter experiência, baseado no projeto Projeto de JavaScript para iniciantes - To Do List com JavaScript puro do  Matheus Battisti - Hora de Codar, https://www.youtube.com/watch?v=HSssE1PRQcA.
