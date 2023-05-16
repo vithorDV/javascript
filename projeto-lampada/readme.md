@@ -1,0 +1,1 @@
+Projeto feito para praticar conceitos do javascript, baseado no Mini projetos javascript (Iniciantes) - 01 LÂMPADA do Fernando Leonid,https://www.youtube.com/watch?v=4r0zOW9Zn-Y.
